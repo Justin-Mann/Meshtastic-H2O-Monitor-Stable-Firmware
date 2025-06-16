@@ -17,11 +17,17 @@ Check out Meshtastic.. It's an open source mesh network monster (in a good way) 
 
 # INSTRUCTIONS FOR USE
 Simple... 
+
 1> Download the .uf2 file from this repo to your computer;
+
 2> Connect the RAK with the processor and modules mounted (baseboard w/ 4631 or 4630 in the EU, RAK12035, RAK12500) with a data capable usb;
+
 3> Double tap the reset button on the RAK to put it into bootloader mode (This will bring up an explorer window on your computer, similar to plugging in a usb stick);
+
 4> Drag and drop (copy) the .uf2 file into the RAK window;
+
 5> let the transfer complete, the device will restart.. Glory achieved.
+
 6> If you are unfamiliar with Meshtastic and it's use you can learn more from the Meshtastic Resources, or if you want specifics about how to enable or how I am using this firmware yiou can look at the instructible I posted for the build.
 
 # THE FUTURE
