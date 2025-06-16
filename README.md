@@ -13,7 +13,7 @@ ChatGPT: The sentence "All this is is a slight modification of the main project 
 I am proud.
 
 Anyways...
-Check out Meshtastic.. It's an open source mesh network monster (in a good way) and it's only getting stronger. Gonna just take a second to state there are other awesome up anbd comers in this area as well, but Meshtastic provides... so much more than encrypted communications; such as RAK module support as above and support for o so many devices. Good stuff.
+Check out Meshtastic.. It's an open source mesh network monster (in a good way) and it's only getting stronger. Gonna just take a second to state there are other awesome up and comers in this area as well, but Meshtastic provides... so much more than encrypted communications; such as RAK module support as above and support for o so many devices. Good stuff.
 
 # INSTRUCTIONS FOR USE
 Simple... 
