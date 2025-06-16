@@ -28,7 +28,7 @@ Simple...
 
 5> let the transfer complete, the device will restart.. Glory achieved.
 
-6> If you are unfamiliar with Meshtastic and it's use you can learn more from the [Meshtastic Resources]([URL](https://meshtastic.org/), or if you want specifics about how to enable or how I am using this firmware you can look at the [instructible I posted for the build](URL).
+6> If you are unfamiliar with Meshtastic and it's use you can learn more from the [Meshtastic Project Resources](https://meshtastic.org/), or if you want specifics about how to enable or how I am using this firmware you can look at the [instructible I posted for the build](URL).
 
 # THE FUTURE
 When the main Meshtastic project supports this code.. this repo disappears. Instead of this you'll be able to use their online Device Flashing Utility (as it should be). 
